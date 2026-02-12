@@ -58,7 +58,7 @@ portfolio-nejib/
 
 ### Étape 3 : Modifie les chemins dans le code
 
-Ouvre **`src/App.jsx`** et cherche la section `projects` (vers la ligne 59).
+Ouvre **`src/App.jsx`** et cherche la section `projects`.
 
 **Change les chemins d'images** :
 
@@ -96,7 +96,7 @@ const projects = [
 
 ### Modifier tes informations personnelles
 
-Ouvre `src/App.jsx` et modifie la section `profile` (ligne ~30) :
+Ouvre `src/App.jsx` et modifie la section `profile` :
 
 ```jsx
 const profile = {
